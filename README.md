@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Heshan Jayaweera</h1>
+<h1 align="center">👋 Hello! I'm Jayaweera WHD</h1>
 <p align="center">
   🎓 Undergraduate in Information Technology <br>
   💻 Aspiring Full-Stack & Mobile App Developer | AI Enthusiast <br>
@@ -39,15 +39,15 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <!-- Commit & repo stats -->
+  <!-- Commit & repo stats (dynamic) -->
   <img src="https://github-readme-stats.vercel.app/api?username=heshan-jayaweera&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   
-  <!-- Top languages -->
+  <!-- Top languages (dynamic from repo code) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 
 <p align="center">
-  <!-- Streak stats (commit activity based) -->
+  <!-- Streak stats (dynamic from commits) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-jayaweera&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
@@ -63,3 +63,4 @@
 
 ## 💡 Fun Fact
 > I believe that constant learning and curiosity fuel creativity. Let's build something awesome together! 🚀
+
