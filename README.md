@@ -32,7 +32,8 @@
 - Object-Oriented Programming  
 - Database Systems  
 - Operating Systems  
-- Software Engineering Principles  
+- Software Engineering Principles
+- AI & ML 
 
 ---
 
