@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hello! I'm Jayaweera WHD</h1>
+<h1 align="center">👋 Hello! I'm WHD Jayaweera </h1>
 <p align="center">
-  🎓 Undergraduate in Information Technology <br>
+  🎓 Undergraduate in Information Technology Speacializing in Information Technology<br>
   💻 Aspiring Full-Stack & Mobile App Developer | AI Enthusiast <br>
   📫 <a href="mailto:heshandeeptha13@gmail.com">heshandeeptha13@gmail.com</a> 
 </p>
