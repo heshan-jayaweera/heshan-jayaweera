@@ -2,7 +2,7 @@
 <p align="center">
   🎓 Undergraduate in Information Technology <br>
   💻 Aspiring Full-Stack & Mobile App Developer | AI Enthusiast <br>
-  📫 <a href="mailto:heshandeeptha13@gmail.com">heshandeeptha13@gmail.com</a> | 🌐 <a href="https://github.com/heshan-jayaweera">GitHub Profile</a>
+  📫 <a href="mailto:heshandeeptha13@gmail.com">heshandeeptha13@gmail.com</a> 
 </p>
 
 ---
@@ -58,12 +58,8 @@
 
 ---
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshan-jayaweera&theme=radical&hide_border=true" alt="Contribution Graph" />
-</p>
 
----
+
 
 ## 💡 Fun Fact
 > I believe that constant learning and curiosity fuel creativity. Let's build something awesome together! 🚀
