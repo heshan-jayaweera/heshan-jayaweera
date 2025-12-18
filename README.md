@@ -48,9 +48,10 @@
 </p>
 
 <p align="center">
-  <!-- Streak stats (dynamic from commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-jayaweera&theme=radical" alt="GitHub Streak" height="180"/>
+  <!-- GitHub Streak Stats (dynamic from commits) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-jayaweera&theme=radical" alt="GitHub Streak" height="180" />
 </p>
+
 
 ---
 
