@@ -47,10 +47,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical" alt="Top Langs" height="180"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak Stats (dynamic from commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-jayaweera&theme=radical" alt="GitHub Streak" height="180" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=heshan-jayaweera&theme=radical)
+
 
 
 ---
