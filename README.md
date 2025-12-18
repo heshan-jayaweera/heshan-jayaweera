@@ -49,15 +49,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
+
+
 ---
 
-## 🔥 GitHub Streak
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshan-jayaweera&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heshan-jayaweera&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
-
 
 
 
