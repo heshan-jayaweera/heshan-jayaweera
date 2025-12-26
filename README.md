@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm WHD Jayaweera</h1>
+<h1 align="center">👋 Hello! I'm Heshan Jayaweera</h1>
 
 <p align="center">
   🎓 Undergraduate in Information Technology (Specializing in IT) <br>
