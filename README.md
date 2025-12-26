@@ -41,15 +41,6 @@
   <img src="https://img.shields.io/badge/AI%20%26%20ML-yellow?style=for-the-badge" />
 </p>
 
----
-
-## 📊 GitHub Stats & Top Languages
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshan-jayaweera&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical)
-
-
 
 
 ---
