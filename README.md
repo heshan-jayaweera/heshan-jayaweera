@@ -74,4 +74,8 @@
 
 ---
 
+## 💡 Fun Fact
+> I believe that constant learning and curiosity fuel creativity. Let's build something awesome together! 🚀
+
+---
 
