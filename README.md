@@ -44,10 +44,11 @@
 ---
 
 ## 📊 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshan-jayaweera&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical" alt="Top Languages" height="180"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heshan-jayaweera&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical)
+
 
 
 
