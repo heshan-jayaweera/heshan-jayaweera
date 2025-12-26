@@ -63,12 +63,6 @@
 
 ---
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=heshan-jayaweera&theme=radical&hide_border=true"/>
-</p>
-
----
 
 ## 📈 Contribution Activity
 <p align="center">
@@ -77,10 +71,4 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heshan-jayaweera&theme=radical&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
