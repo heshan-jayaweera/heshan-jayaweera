@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Tech Stack (From Actual GitHub Usage)
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 <p align="center">
@@ -60,15 +60,6 @@
 - Software Engineering  
 - Artificial Intelligence & Machine Learning  
 
----
-
-## 📊 GitHub Statistics (Live Data)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshan-jayaweera&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshan-jayaweera&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
-> *Languages are calculated from public repositories.*
 
 ---
 
@@ -93,13 +84,3 @@
 
 ---
 
-## 🧠 Skill Proficiency (Self-Assessed)
-
-### Programming
-```text
-Python        █████████░░░
-Java          █████████░░░
-JavaScript    ████████░░░░
-C / C++       ███████░░░░░
-Kotlin        ██████░░░░░░
-R             █████░░░░░░░
